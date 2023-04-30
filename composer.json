@@ -1,6 +1,6 @@
 {
-    "name": "beyondcode/laravel-ask-database",
-    "description": "Use natural language and AI to query your database from Laravel",
+    "name": "eduardocruz/laravel-ask-database",
+    "description": "Use natural language and AI to query your database from Laravel. Fork from beyondcode/laravel-ask-database by Marcel Pociot",
     "keywords": [
         "beyondcode",
         "laravel",
